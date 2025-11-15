@@ -12,6 +12,8 @@ body {
   line-height: 1.6;
   font-weight: 400;
   font-family: "Reflet des Ombres", "Breath of the River", Helvetica, Arial, sans-serif;
+}
+h1 {
   font-family: "Breath of the River", Helvetica, Arial, sans-serif;
   color: #DEB499;
 }
