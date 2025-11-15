@@ -11,7 +11,7 @@ body {
   font-size: 1.5em; /* currently ems cause chrome bug misinterpreting rems on body element */
   line-height: 1.6;
   font-weight: 400;
-  font-family: "Anothershabby_trial", "Breath of the River", Helvetica, Arial, sans-serif;
+  font-family: "Reflet des Ombres", "Breath of the River", Helvetica, Arial, sans-serif;
   color: #DEB499;
 }
 
@@ -35,7 +35,7 @@ small {
         color: #FFCCE1;
     }
      h1 {
-        font-family: 'Anothershabby_trial', sans-serif;
+        font-family: 'Reflet des Ombres', sans-serif;
         color: #FFCCE1;
     }
 
