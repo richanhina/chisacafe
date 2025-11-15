@@ -11,7 +11,7 @@ body {
   font-size: 1.5em; /* currently ems cause chrome bug misinterpreting rems on body element */
   line-height: 1.6;
   font-weight: 400;
-  font-family: "Chocolate", "Vanilla Pancake", Helvetica, Arial, sans-serif;
+  font-family: "Reflet des Ombres", "Vanilla Pancake", Helvetica, Arial, sans-serif;
   color: #DEB499;
 }
 
@@ -21,7 +21,7 @@ body {
 a {
   font-weight: normal;
   text-decoration: none; 
-  color:#ffcce1;
+  color:#FFCCE1;
 }
 a:focus {
   outline: thin dotted;
