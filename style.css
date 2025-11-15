@@ -11,7 +11,7 @@ body {
   font-size: 1.5em; /* currently ems cause chrome bug misinterpreting rems on body element */
   line-height: 1.6;
   font-weight: 400;
-  font-family: "B-de-bonita", "Honeymoon", "Breath of the River", "Reflet des Ombres", "Vanilla Pancake", Helvetica, Arial, sans-serif;
+  font-family: "B-de-bonita", Helvetica, Arial, sans-serif;
   color: #DEB499;
 }
 
