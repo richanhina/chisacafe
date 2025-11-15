@@ -17,6 +17,14 @@ h1 {
   font-family: "Breath of the River", Helvetica, Arial, sans-serif;
   color: #DEB499;
 }
+  h2 {
+        font-family: 'Breath of the River', sans-serif;
+        color: #FFCCE1;
+    }
+     h1 {
+        font-family: 'Reflet des Ombres', sans-serif;
+        color: ##DEB499;
+    }
 
 /**
  * Links
