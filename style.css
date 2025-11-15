@@ -11,7 +11,7 @@ body {
   font-size: 1.5em; /* currently ems cause chrome bug misinterpreting rems on body element */
   line-height: 1.6;
   font-weight: 400;
-  font-family: "Breath of the River", "Reflet des Ombres", "Vanilla Pancake", Helvetica, Arial, sans-serif;
+  font-family: "Honeymoon", "Breath of the River", "Reflet des Ombres", "Vanilla Pancake", Helvetica, Arial, sans-serif;
   color: #DEB499;
 }
 
@@ -31,6 +31,10 @@ small {
   font-size: 75%;
 }
     h2 {
+        font-family: 'Breath of the River', sans-serif;
+        color: #FFCCE1;
+    }
+     h3 {
         font-family: 'Honeymoon', sans-serif;
         color: #FFCCE1;
     }
