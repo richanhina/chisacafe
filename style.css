@@ -23,8 +23,8 @@ body {
 
 @font-face {
   font-family: 'Vanilla Pancake';
-  src: url('vanilla pancake.woff2') format('woff2'),
-       url('vanilla pancake.ttf') format('truetype');
+  src: url('Vanilla Pancake.woff2') format('woff2'),
+       url('Vanilla Pancake.ttf') format('truetype');
   font-weight: bold;
 }
 
