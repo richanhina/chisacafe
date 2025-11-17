@@ -13,7 +13,29 @@ body {
   font-weight: 400;
   font-family: "Papernotes", Helvetica, Arial, sans-serif;
 }
+/* ==== DAFONT CUSTOM FONT ==== */
+@font-face {
+  font-family: 'Chocolate';
+  src: url('fonts/Chocolate.woff2') format('woff2'),
+       url('fonts/Chocolate.ttf') format('truetype');
+  font-weight: normal;
+}
 
+@font-face {
+  font-family: 'Vanilla Pancake';
+  src: url('vanilla pancake.woff2') format('woff2'),
+       url('vanilla pancake.ttf') format('truetype');
+  font-weight: bold;
+}
+
+/* Now use it */
+body {
+  font-family: 'Vanilla Pancake', sans-serif;   /* fallback or body text */
+}
+
+h1, h2, .main-menu a {
+  font-family: 'Chocolate', serif;
+}
 /**
  * Links
  */
