@@ -22,15 +22,15 @@ body {
 }
 
 @font-face {
-  font-family: 'Vanilla Pancake';
-  src: url('Vanilla Pancake.woff2') format('woff2'),
-       url('Vanilla Pancake.ttf') format('truetype');
+  font-family: 'Papernotes';
+  src: url('Papernotes.woff2') format('woff2'),
+       url('Papernotes.ttf') format('truetype');
   font-weight: bold;
 }
 
 /* Now use it */
 body {
-  font-family: 'Vanilla Pancake', sans-serif;   /* fallback or body text */
+  font-family: 'Papernotes', sans-serif;   /* fallback or body text */
 }
 
 h1, h2, .main-menu a {
