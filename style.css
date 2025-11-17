@@ -4,7 +4,7 @@
 
 /* html is set to 62.5% so that all the REM measurements are based on 10px sizing. So basically 1.5rem = 15px */
 html {
-  font-size: 79.5%;
+  font-size: 62.5%;
   
 }
 body {
@@ -12,19 +12,6 @@ body {
   line-height: 1.6;
   font-weight: 400;
   font-family: "Papernotes", Helvetica, Arial, sans-serif;
-}
-h1 {
-  font-family: "Papernotes", Helvetica, Arial, sans-serif;
-  color: #DEB499;
-}
-  h2 {
-        font-family: 'Papernotes', sans-serif;
-        color: #FFCCE1;
-    }
-     h1 {
-        font-family: 'Papernotes', sans-serif;
-        color: ##DEB499;
-    }
 
 /**
  * Links
